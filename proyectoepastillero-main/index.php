@@ -6,4 +6,5 @@ $controlador= new Controlador();
 $controlador->main();
 echo "hola wey";
 echo "se me ve??";
+echo "vamos chavales!!";
 ?>
